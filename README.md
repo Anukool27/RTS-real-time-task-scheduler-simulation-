@@ -1,4 +1,4 @@
-# Real-Time Task Schedulerf 
+# Real-Time Task Scheduler Simulation
 
 This repository contains a simulation of real-time task scheduling using the FreeRTOS framework. The project implements various task scheduling algorithms, including:
 
